@@ -1,0 +1,6 @@
+.env
+ChessAppVenv/
+__pycache__/
+*.pyc 
+*.pyco
+.vscode/
